@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHubProjects\\ChelSUPractices\\P27-09-26-cool-console-menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C353D0-5E4D-42CD-9488-EA6D3BDF34FA}|P27-09-26-cool-console-menu\\P27-09-26-cool-console-menu.csproj|d:\\githubprojects\\chelsupractices\\p27-09-26-cool-console-menu\\p27-09-26-cool-console-menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C353D0-5E4D-42CD-9488-EA6D3BDF34FA}|P27-09-26-cool-console-menu\\P27-09-26-cool-console-menu.csproj|solutionrelative:p27-09-26-cool-console-menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHubProjects\\ChelSUPractices\\P27-09-26-cool-console-menu\\P27-09-26-cool-console-menu\\Program.cs",
+              "RelativeDocumentMoniker": "P27-09-26-cool-console-menu\\Program.cs",
+              "ToolTip": "D:\\GitHubProjects\\ChelSUPractices\\P27-09-26-cool-console-menu\\P27-09-26-cool-console-menu\\Program.cs",
+              "RelativeToolTip": "P27-09-26-cool-console-menu\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:19:23.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
